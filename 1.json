@@ -1,0 +1,39 @@
+{
+  "name": "Pandas Roly-Poly #1",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1.png",
+  "dna": "77d407979d91ca34748f0e5bf900c78072b33f6d",
+  "edition": 1,
+  "date": 1652383577641,
+  "attributes": [
+    {
+      "trait_type": "6_back",
+      "value": "4 (23)"
+    },
+    {
+      "trait_type": "panda main",
+      "value": "main"
+    },
+    {
+      "trait_type": "1_weapon",
+      "value": "controller"
+    },
+    {
+      "trait_type": "2_glass",
+      "value": "Solini CE"
+    },
+    {
+      "trait_type": "4_wings",
+      "value": "Relief"
+    },
+    {
+      "trait_type": "3_heat",
+      "value": "Bandana U"
+    },
+    {
+      "trait_type": "5_emocii",
+      "value": "15"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
